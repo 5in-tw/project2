@@ -72,23 +72,23 @@ https://MY_USER_NAME.github.io/project2
    1. You should add the following HTML elements:
       - <!doctype html>
       - html
-      - head
-        - title
-      - body
-        - header
-          - div
+        - head
+          - title
+        - body
+          - header
             - div
-              - img
-              - b
-            - menu
-              - a
-              - button
-        - main
-          - h1
-        - footer
-          - div
-            - p
-        - script
+              - div
+                - img
+                - b
+              - menu
+                - a
+                - button
+          - main
+            - h1
+          - footer
+            - div
+              - p
+          - script
 
       > Be sure to use closing tags when needed. Be sure to nest elements correctly. (“nest” means to put one thing inside another.)
 
